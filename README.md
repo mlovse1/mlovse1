@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michelle Lovse
-- 👀 I’m interested in Azure DevOps, Python, and Terraform.
+- 👀 I’m interested in Java, Azure DevOps, Python, and Terraform.
 - 🌱 I’m currently learning to become a Site Relability Engineer.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: You can email me at mlovse1@outlook.com
